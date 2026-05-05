@@ -12,7 +12,6 @@
 			<a href="https://wordpress.org/">
 				<svg xmlns:svg="" xmlns="http://www.w3.org/2000/svg" version="1.0" width="540" height="180" id="svg2" xml:space="preserve">
 					<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/WordPress_logo.svg/960px-WordPress_logo.svg.png" style="display:flex background-color:000" alt="Wordpress" title="Wordpress " width="414" height="74">
-				</img>
 				</svg>
 			</a>
 		</h1>
