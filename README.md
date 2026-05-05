@@ -12,20 +12,20 @@
 			<a href="https://wordpress.org/">
 				<svg xmlns:svg="" xmlns="http://www.w3.org/2000/svg" version="1.0" width="540" height="180" id="svg2" xml:space="preserve">
 					<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/WordPress_logo.svg/960px-WordPress_logo.svg.png" style="display:flex background-color:000" alt="Wordpress" title="Wordpress " width="414" height="74">
-				</img></svg>
-				</a>
-				</h1>
-				</div>
-
-
-  
+				</img>
+				</svg>
+			</a>
+		</h1>
+	</div>
 
 <p style="text-align: center">Semantic Personal Publishing Platform</p>
-
 <h2>Installation: Famous 5-minute install</h2>
 <ol>
 	<li>Unzip the package in an empty directory and upload everything.</li>
-	<li>Open <span class="file"><a href="wp-admin/install.php">wp-admin/install.php</a></span> in your browser. It will take you through the process to set up a <code>wp-config.php</code> file with your database connection details.
+	<li>Open
+		<span class="file">
+			<a href="wp-admin/install.php">wp-admin/install.php</a></span> in your browser. It will take you through the process to set up a <code>wp-config.php</code> file with your database connection details.
+	</li>
 		<ol>
 			<li>If for some reason this doesn&#8217;t work, don&#8217;t worry. It doesn&#8217;t work on all web hosts. Open up <code>wp-config-sample.php</code> with a text editor like WordPad or similar and fill in your database connection details.</li>
 			<li>Save the file as <code>wp-config.php</code> and upload it.</li>
