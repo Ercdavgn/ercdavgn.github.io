@@ -2,18 +2,20 @@
 <html>
 <head>
 	<meta name="viewport" content="width=device-width" />
-	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-	WordPress &#8250; ReadMe
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />WordPress &#8250; ReadMe
 	<link rel="stylesheet" href="wp-admin/css/install.css?ver=20100228" type="text/css" />
 </head>
+	
 <body>
-
-<div style="display: flex; align-items: center;">
-  <h1 id="logo">
-	<a href="https://wordpress.org/">
-		<svg xmlns:svg="" xmlns="http://www.w3.org/2000/svg" version="1.0" width="540" height="180" id="svg2" xml:space="preserve">
-			<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/WordPress_logo.svg/960px-WordPress_logo.svg.png" style="display:flex background-color:000" alt="Wordpress" title="Wordpress " width="414" height="74"></img></a>
-</h1></div>
+	<div style="display: flex; align-items: center;">
+		<h1 id="logo">
+			<a href="https://wordpress.org/">
+				<svg xmlns:svg="" xmlns="http://www.w3.org/2000/svg" version="1.0" width="540" height="180" id="svg2" xml:space="preserve">
+					<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/WordPress_logo.svg/960px-WordPress_logo.svg.png" style="display:flex background-color:000" alt="Wordpress" title="Wordpress " width="414" height="74">
+				</img></svg>
+				</a>
+				</h1>
+				</div>
 
 
   
